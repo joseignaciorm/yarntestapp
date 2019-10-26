@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "foundation-sites": "^6.5.3"
+  },
+  "name": "Personal-Nach",
+  "version": "1.0.0",
+  "description": "Test App",
+  "main": "index.js",
+  "repository": "git://github.com/Varying-Vagrant-Vagrants/VVV.git",
+  "author": "The Nach <joseignaciorm13@gmail.com>",
+  "license": "MIT"
+}

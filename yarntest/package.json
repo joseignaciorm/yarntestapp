@@ -1,0 +1,18 @@
+{
+  "name": "yarntest",
+  "version": "1.0.0",
+  "description": "yarntest",
+  "main": "index.js",
+  "repository": "https://github.com/joseignaciorm/yarntestapp.git",
+  "author": "Nacho",
+  "license": "MIT",
+  "dependencies": {
+    "foundation": "^4.2.1-1",
+    "lodash": "4.17.15",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "nodemon": "^1.19.4"
+  }
+}
